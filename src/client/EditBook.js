@@ -216,14 +216,20 @@ class EditBook extends Component {
 
 
                   <div class="field has-addons">
+                   <nav class="level-item">
                <p class="control">
              <input class="input" type="text" placeholder="Your email"></input>
              </p>
+             </nav>
+             <nav class="level-item">
            <p class="control">
+           <Link to={'/'} className="navbar-item navbar-end">
              <a class="button is-static">
                 @gmail.com
              </a>
+             </Link>
             </p>
+            </nav>
            </div>
                
                <div class="field has-addons">

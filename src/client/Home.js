@@ -62,7 +62,7 @@ export default class Home extends Component {
                  please <strong>log in</strong> to access background data information.
 
                 <hr />
-
+                 
                   <button className="button is-danger" type="button">
                  Welcome!
                  </button>
@@ -175,6 +175,7 @@ export default class Home extends Component {
                    <div class="field">
                    
                      <p class="control">
+                     
                     <button class="button is-success">
                      Login
                          </button>

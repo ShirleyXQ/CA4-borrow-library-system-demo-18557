@@ -84,9 +84,9 @@ export default class Login extends Component {
 
 
 
-
+              
                <div class="buttons">
-
+               
                <button class="button is-rounded">education</button>
               <button class="button is-primary is-rounded">Fiction</button>
               <button class="button is-link is-rounded">Literature and Art</button>
@@ -102,6 +102,7 @@ export default class Login extends Component {
               <button class="button is-danger is-rounded">Art and Photography</button>
 
              </div>
+             
 
 
              </div>
